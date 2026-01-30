@@ -48,6 +48,8 @@ Based on the code change, check if these steps are followed wherever relevant
 - [ ] PR title accurately summarised the change in this PR
 - [ ] PR title or PR description includes ticket number `JIRA-1234` or `NO-JIRA`
 - [ ] PR description properly explains what the change is and why it is needed
+- [ ] If applicable, code linter or formatter ran successfully
+- [ ] If applicable, package version for the repository have been updated
 - [ ] If it needs any update in documentation like in confluence or in repository, are they updated ?
 - [ ] Does it mention what type of change it is: Bug fix, feature implementation, breaking changes, decoration, configuration, version change, refactoring etc.?
 - [ ] If relevant, proper testing is added: Unit tests added/updated, Integration tests added/updated, Manual testing steps (provide steps in description)
