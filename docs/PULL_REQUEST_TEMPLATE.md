@@ -62,3 +62,6 @@ Based on the code change, check if these steps are followed wherever relevant
 - [ ] Performance impact has been considered
 - [ ] Code doesn't reveal any confidential information
 - [ ] Code properly sanitizes inputs and perform output encoding 
+
+### Review tips for Claude
+To add instructions for claude code, to make it easier for automated review.
