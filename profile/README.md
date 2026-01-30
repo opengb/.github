@@ -27,11 +27,11 @@ Instructions for developers on how to contribute to organization projects and fo
 
 ## Quick Links
 
-- [Coding Standards](./docs/coding-standards.md)
-- [Workflow Guidelines](./docs/workflow.md)
-- [Documentation Standards](./docs/documentation.md)
-- [Contributing Guide](./CONTRIBUTING.md)
-- [Pull request template](./PULL_REQUEST_TEMPLATE.md)
+- [Coding Standards](../docs/coding-standards.md)
+- [Workflow Guidelines](../docs/workflow.md)
+- [Documentation Standards](../docs/documentation.md)
+- [Contributing Guide](../CONTRIBUTING.md)
+- [Pull request template](../docs/PULL_REQUEST_TEMPLATE.md)
 
 ## Getting Started
 
