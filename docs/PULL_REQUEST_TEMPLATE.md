@@ -41,10 +41,9 @@ Refer this checklist:
 
 Run through below lists to check if you have gone through these steps.
 
-### PR Sanitization
+### Code Author Checklist
 Based on the code change, check if these steps are followed wherever relevant
 
-#### Checks before requesting a code review
 - [ ] PR title accurately summarised the change in this PR
 - [ ] PR title or PR description includes ticket number `JIRA-1234` or `NO-JIRA`
 - [ ] PR description properly explains what the change is and why it is needed
@@ -55,7 +54,7 @@ Based on the code change, check if these steps are followed wherever relevant
 - [ ] If relevant, proper testing is added: Unit tests added/updated, Integration tests added/updated, Manual testing steps (provide steps in description)
 - [ ] Added any extra steps or breaking changes important for deployment
 
-## Reviewer Checklist
+### Reviewer Checklist
 - [ ] Code changes are clear and follow project conventions
 - [ ] Changes include appropriate tests
 - [ ] Documentation is updated
