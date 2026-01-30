@@ -61,4 +61,5 @@ Based on the code change, check if these steps are followed wherever relevant
 - [ ] Documentation is updated
 - [ ] Backwards compatibility is maintained (or breaking changes are documented)
 - [ ] Performance impact has been considered
-
+- [ ] Code doesn't reveal any confidential information
+- [ ] Code properly sanitizes inputs and perform output encoding 
